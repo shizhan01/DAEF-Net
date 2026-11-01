@@ -1,0 +1,6 @@
+# D3: GESL field events, voltage PoW, current PoW and PMU streams, 8 classes.
+# The library anonymizes its sources, so the sensor graph is purely adaptive.
+model:
+  mu: 0.0
+data:
+  noise_aug: false

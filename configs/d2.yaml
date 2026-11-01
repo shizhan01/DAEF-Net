@@ -1,0 +1,5 @@
+# D2: 29 classes, S1 waveform (12.8 kHz), S2 waveform (3.2 kHz), S3 phasors (100 fps).
+model:
+  mu: 0.0
+data:
+  noise_aug: true

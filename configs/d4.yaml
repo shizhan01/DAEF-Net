@@ -1,0 +1,6 @@
+# D4: eight metered buses with three-phase voltage and current, 9 classes.
+# The electrical distances stored with the data enter Eq. (20) with mu = 0.6.
+model:
+  mu: 0.6
+data:
+  noise_aug: false

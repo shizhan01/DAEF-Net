@@ -1,0 +1,5 @@
+# D1: SEED-PQD-v1, one sensor, 17 classes, one-cycle windows at 5 kHz.
+model:
+  mu: 0.0
+data:
+  noise_aug: true
